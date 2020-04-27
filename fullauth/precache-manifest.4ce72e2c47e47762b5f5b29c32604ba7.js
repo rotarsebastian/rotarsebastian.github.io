@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ce3505a6a25791ca348f5bef5a825aa",
+    "revision": "ae7824b322cf3561e9c987b75e1e3f4d",
     "url": "/fullauth/index.html"
   },
   {
-    "revision": "872ad3e23b258bbc63a3",
+    "revision": "f66027474226ebc0fecb",
     "url": "/fullauth/static/css/main.440a4674.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fullauth/static/js/2.27241935.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "872ad3e23b258bbc63a3",
-    "url": "/fullauth/static/js/main.bebf9e34.chunk.js"
+    "revision": "f66027474226ebc0fecb",
+    "url": "/fullauth/static/js/main.bee81fee.chunk.js"
   },
   {
     "revision": "ef860f5a7f28b259eaf2",
