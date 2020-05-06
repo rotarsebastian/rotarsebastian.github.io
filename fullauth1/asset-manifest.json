@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/fullauth1/static/css/main.689ffbb6.chunk.css",
+    "main.js": "/fullauth1/static/js/main.209e716b.chunk.js",
+    "main.js.map": "/fullauth1/static/js/main.209e716b.chunk.js.map",
+    "runtime-main.js": "/fullauth1/static/js/runtime-main.a905e883.js",
+    "runtime-main.js.map": "/fullauth1/static/js/runtime-main.a905e883.js.map",
+    "static/js/2.5340fbfe.chunk.js": "/fullauth1/static/js/2.5340fbfe.chunk.js",
+    "static/js/2.5340fbfe.chunk.js.map": "/fullauth1/static/js/2.5340fbfe.chunk.js.map",
+    "index.html": "/fullauth1/index.html",
+    "precache-manifest.d2833120f8d02aec34d4262ffb7bde2c.js": "/fullauth1/precache-manifest.d2833120f8d02aec34d4262ffb7bde2c.js",
+    "service-worker.js": "/fullauth1/service-worker.js",
+    "static/css/main.689ffbb6.chunk.css.map": "/fullauth1/static/css/main.689ffbb6.chunk.css.map",
+    "static/js/2.5340fbfe.chunk.js.LICENSE.txt": "/fullauth1/static/js/2.5340fbfe.chunk.js.LICENSE.txt",
+    "static/media/behance.svg": "/fullauth1/static/media/behance.4e9e54b6.svg",
+    "static/media/code.svg": "/fullauth1/static/media/code.f3fb4aa2.svg",
+    "static/media/facebook.svg": "/fullauth1/static/media/facebook.b9173756.svg",
+    "static/media/github.svg": "/fullauth1/static/media/github.617870e4.svg",
+    "static/media/gmail.svg": "/fullauth1/static/media/gmail.b986b4fd.svg",
+    "static/media/linkedin.svg": "/fullauth1/static/media/linkedin.619231ff.svg",
+    "static/media/logo.svg": "/fullauth1/static/media/logo.054cf053.svg",
+    "static/media/me.png": "/fullauth1/static/media/me.72b449c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a905e883.js",
+    "static/js/2.5340fbfe.chunk.js",
+    "static/css/main.689ffbb6.chunk.css",
+    "static/js/main.209e716b.chunk.js"
+  ]
+}
