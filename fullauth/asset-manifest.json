@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/fullauth/static/css/main.440a4674.chunk.css",
-    "main.js": "/fullauth/static/js/main.bee81fee.chunk.js",
-    "main.js.map": "/fullauth/static/js/main.bee81fee.chunk.js.map",
+    "main.css": "/fullauth/static/css/main.8aee0456.chunk.css",
+    "main.js": "/fullauth/static/js/main.f1620dfc.chunk.js",
+    "main.js.map": "/fullauth/static/js/main.f1620dfc.chunk.js.map",
     "runtime-main.js": "/fullauth/static/js/runtime-main.5880e812.js",
     "runtime-main.js.map": "/fullauth/static/js/runtime-main.5880e812.js.map",
-    "static/js/2.27241935.chunk.js": "/fullauth/static/js/2.27241935.chunk.js",
-    "static/js/2.27241935.chunk.js.map": "/fullauth/static/js/2.27241935.chunk.js.map",
+    "static/js/2.96d59d94.chunk.js": "/fullauth/static/js/2.96d59d94.chunk.js",
+    "static/js/2.96d59d94.chunk.js.map": "/fullauth/static/js/2.96d59d94.chunk.js.map",
     "index.html": "/fullauth/index.html",
-    "precache-manifest.4ce72e2c47e47762b5f5b29c32604ba7.js": "/fullauth/precache-manifest.4ce72e2c47e47762b5f5b29c32604ba7.js",
+    "precache-manifest.88042bcbf2ad665c16bef4218d7bcdcc.js": "/fullauth/precache-manifest.88042bcbf2ad665c16bef4218d7bcdcc.js",
     "service-worker.js": "/fullauth/service-worker.js",
-    "static/css/main.440a4674.chunk.css.map": "/fullauth/static/css/main.440a4674.chunk.css.map",
-    "static/js/2.27241935.chunk.js.LICENSE.txt": "/fullauth/static/js/2.27241935.chunk.js.LICENSE.txt"
+    "static/css/main.8aee0456.chunk.css.map": "/fullauth/static/css/main.8aee0456.chunk.css.map",
+    "static/js/2.96d59d94.chunk.js.LICENSE.txt": "/fullauth/static/js/2.96d59d94.chunk.js.LICENSE.txt",
+    "static/media/behance.svg": "/fullauth/static/media/behance.4e9e54b6.svg",
+    "static/media/code.svg": "/fullauth/static/media/code.f3fb4aa2.svg",
+    "static/media/facebook.svg": "/fullauth/static/media/facebook.b9173756.svg",
+    "static/media/github.svg": "/fullauth/static/media/github.617870e4.svg",
+    "static/media/gmail.svg": "/fullauth/static/media/gmail.b986b4fd.svg",
+    "static/media/linkedin.svg": "/fullauth/static/media/linkedin.619231ff.svg",
+    "static/media/logo.svg": "/fullauth/static/media/logo.054cf053.svg",
+    "static/media/me.png": "/fullauth/static/media/me.72b449c2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5880e812.js",
-    "static/js/2.27241935.chunk.js",
-    "static/css/main.440a4674.chunk.css",
-    "static/js/main.bee81fee.chunk.js"
+    "static/js/2.96d59d94.chunk.js",
+    "static/css/main.8aee0456.chunk.css",
+    "static/js/main.f1620dfc.chunk.js"
   ]
 }
