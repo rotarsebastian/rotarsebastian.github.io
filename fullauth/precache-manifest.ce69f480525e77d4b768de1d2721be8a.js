@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65e67116dfbe8561bd3d3a60615506a6",
+    "revision": "d2808ea1a56b5c91054a581cb602308b",
     "url": "/fullauth/index.html"
   },
   {
-    "revision": "ab8d04cda57fe1d4aa89",
+    "revision": "313d9d25c0777d548010",
     "url": "/fullauth/static/css/main.8aee0456.chunk.css"
   },
   {
-    "revision": "420009043b2994ca905a",
-    "url": "/fullauth/static/js/2.96d59d94.chunk.js"
+    "revision": "7cfea306caaf52152bd0",
+    "url": "/fullauth/static/js/2.32e290cb.chunk.js"
   },
   {
-    "revision": "890b83c3b503af9a5630afd9ff112890",
-    "url": "/fullauth/static/js/2.96d59d94.chunk.js.LICENSE.txt"
+    "revision": "8301fd78ea63ee27595f823faae97fbf",
+    "url": "/fullauth/static/js/2.32e290cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab8d04cda57fe1d4aa89",
-    "url": "/fullauth/static/js/main.f1620dfc.chunk.js"
+    "revision": "313d9d25c0777d548010",
+    "url": "/fullauth/static/js/main.49fbf45b.chunk.js"
   },
   {
     "revision": "ef860f5a7f28b259eaf2",
