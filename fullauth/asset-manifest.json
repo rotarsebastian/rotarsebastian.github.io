@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/fullauth/static/css/main.8aee0456.chunk.css",
-    "main.js": "/fullauth/static/js/main.49fbf45b.chunk.js",
-    "main.js.map": "/fullauth/static/js/main.49fbf45b.chunk.js.map",
-    "runtime-main.js": "/fullauth/static/js/runtime-main.5880e812.js",
-    "runtime-main.js.map": "/fullauth/static/js/runtime-main.5880e812.js.map",
-    "static/js/2.32e290cb.chunk.js": "/fullauth/static/js/2.32e290cb.chunk.js",
-    "static/js/2.32e290cb.chunk.js.map": "/fullauth/static/js/2.32e290cb.chunk.js.map",
+    "main.css": "/fullauth/static/css/main.689ffbb6.chunk.css",
+    "main.js": "/fullauth/static/js/main.407c2448.chunk.js",
+    "main.js.map": "/fullauth/static/js/main.407c2448.chunk.js.map",
+    "runtime-main.js": "/fullauth/static/js/runtime-main.8bda34a7.js",
+    "runtime-main.js.map": "/fullauth/static/js/runtime-main.8bda34a7.js.map",
+    "static/js/2.5340fbfe.chunk.js": "/fullauth/static/js/2.5340fbfe.chunk.js",
+    "static/js/2.5340fbfe.chunk.js.map": "/fullauth/static/js/2.5340fbfe.chunk.js.map",
     "index.html": "/fullauth/index.html",
-    "precache-manifest.ce69f480525e77d4b768de1d2721be8a.js": "/fullauth/precache-manifest.ce69f480525e77d4b768de1d2721be8a.js",
+    "precache-manifest.0488311bcf0936fbd925f0fc86f1d456.js": "/fullauth/precache-manifest.0488311bcf0936fbd925f0fc86f1d456.js",
     "service-worker.js": "/fullauth/service-worker.js",
-    "static/css/main.8aee0456.chunk.css.map": "/fullauth/static/css/main.8aee0456.chunk.css.map",
-    "static/js/2.32e290cb.chunk.js.LICENSE.txt": "/fullauth/static/js/2.32e290cb.chunk.js.LICENSE.txt",
+    "static/css/main.689ffbb6.chunk.css.map": "/fullauth/static/css/main.689ffbb6.chunk.css.map",
+    "static/js/2.5340fbfe.chunk.js.LICENSE.txt": "/fullauth/static/js/2.5340fbfe.chunk.js.LICENSE.txt",
     "static/media/behance.svg": "/fullauth/static/media/behance.4e9e54b6.svg",
     "static/media/code.svg": "/fullauth/static/media/code.f3fb4aa2.svg",
     "static/media/facebook.svg": "/fullauth/static/media/facebook.b9173756.svg",
@@ -22,9 +22,9 @@
     "static/media/me.png": "/fullauth/static/media/me.72b449c2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5880e812.js",
-    "static/js/2.32e290cb.chunk.js",
-    "static/css/main.8aee0456.chunk.css",
-    "static/js/main.49fbf45b.chunk.js"
+    "static/js/runtime-main.8bda34a7.js",
+    "static/js/2.5340fbfe.chunk.js",
+    "static/css/main.689ffbb6.chunk.css",
+    "static/js/main.407c2448.chunk.js"
   ]
 }
